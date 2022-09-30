@@ -1,3 +1,3 @@
 # My WordPress Site 
 
-This is basic WP Site. Feel free to contribute. 
+Basic Site - This is a personal portfolio site. 
